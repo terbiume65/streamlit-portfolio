@@ -1,6 +1,6 @@
 # Portfolio Analysis App with Streamlit
-#####Introduction
+##### Introduction
 With the package yfinance, this web app would fetch stock data from a portfolio that the user construct, giving you an overview about the performance of your portfolio. 
-#####Usage
+##### Usage
 This app is hosted online by streamlit. You may use it online [here](https://share.streamlit.io/terbiume65/streamlit-portfolio/main/app.py)
 
