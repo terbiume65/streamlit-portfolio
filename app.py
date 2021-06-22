@@ -32,7 +32,7 @@ def style(df):
     return copy
 
 
-
+st.header("Portfolio Construction")
 initial=st.number_input("Enter the total capital of your portfolio (in $USD, including cash)")
 n=st.number_input("Enter the number of stocks you have in your portfolio (10 at max)",min_value=1,max_value=10,step=1)
 
